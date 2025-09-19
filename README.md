@@ -1,6 +1,6 @@
-# Título do repositório
+# Machine Learning
 
-Descrição curta do repositório.
+Repositório para agrupar conhecimento de Aprendizado de Máquina.
 
 ## Sumário
 
@@ -51,7 +51,7 @@ python main.py
 
 ## Contato
 
-O repositório foi originalmente desenvolvido por Fulano: [fulano@ufsm.br]()
+O repositório foi originalmente desenvolvido por Henry: [henry.cagnini@ufsm.br]()
 
 ## Bibliografia
 
