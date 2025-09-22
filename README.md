@@ -2,6 +2,10 @@
 
 Repositório para agrupar conhecimento de Aprendizado de Máquina.
 
+## Vídeos
+
+* [StatQuest](https://www.youtube.com/@statquest)
+
 ## Sumário
 
 * [Pré-requisitos](#pré-requisitos)
